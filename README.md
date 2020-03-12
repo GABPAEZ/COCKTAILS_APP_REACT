@@ -1,6 +1,6 @@
 # Aplicación Buscador de Preparacion de Cocktails
 
-\_Aplicación realizada con React y Material-UI 
+\_Aplicación realizada con React y Material-UI - Utiliza la Api Context
 
 ### Instalación 🔧
 
@@ -25,9 +25,9 @@ Yarn start o NPM start
 
 ## Preview 📌
 
-![](assets/cocktail1.jpg)
-![](assets/cocktail2.jpg)
-![](assets/cocktail3.jpg)
+![](src/assets/cocktail1.jpg)
+![](src/assets/cocktail2.jpg)
+![](src/assets/cocktail3.jpg)
 
 ## Autores ✒️
 
