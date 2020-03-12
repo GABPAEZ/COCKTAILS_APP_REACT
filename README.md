@@ -18,7 +18,7 @@ Yarn start o NPM start
 
 ## Construido con 🛠️
 
-- [Expo](http://reactjs.org) - Framework
+- [React](http://reactjs.org) - Framework
 - [Yarn](https://yarnpkg.com/) - Manejador de dependencias
 - [Material-UI](https://material-ui.com) - Mateiral-UI Modal
 - [Api](https://www.thecocktaildb.com/api.php) - Api Cocktails
